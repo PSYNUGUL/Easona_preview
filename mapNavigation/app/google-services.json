@@ -1,0 +1,68 @@
+{
+  "project_info": {
+    "project_number": "539144806746",
+    "firebase_url": "https://minilab6-ece454-default-rtdb.firebaseio.com",
+    "project_id": "minilab6-ece454",
+    "storage_bucket": "minilab6-ece454.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539144806746:android:ea8f8792187b80b3ecd363",
+        "android_client_info": {
+          "package_name": "com.example.easona"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnOaGnqy_req_Vfs4SHkdoNzxBIgBMPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539144806746:android:3370855a3195bdc9ecd363",
+        "android_client_info": {
+          "package_name": "com.example.lab6"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnOaGnqy_req_Vfs4SHkdoNzxBIgBMPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:539144806746:android:c083f19de04fb81eecd363",
+        "android_client_info": {
+          "package_name": "com.example.map_navigation"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDEnOaGnqy_req_Vfs4SHkdoNzxBIgBMPw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
